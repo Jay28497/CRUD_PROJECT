@@ -8,3 +8,7 @@ Instruction:
 2- Python 3.7.0
 
 3- Django 2.1
+
+4- Open this project in Pycharm.
+
+5- Run.
